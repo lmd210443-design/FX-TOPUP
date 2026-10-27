@@ -1,12 +1,12 @@
 // =======================================================
-// WEBSITE NAME (NICKNAME)
+// WEBSITE NAME (FT TOPUP)
 // =======================================================
-var website_name = "YASIN";
+var website_name = "FT TOPUP";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "https://t.me/Fxantheno";
 
 // =======================================================
 // TELEGRAM GROUP LINK
